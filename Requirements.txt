@@ -1,0 +1,15 @@
+calendar
+datetime
+pyautogui
+pyjokes
+time
+webbrowser
+geocoder
+keyboard
+pyttsx3
+pywhatkit
+requests
+speech_recognition as sr
+wikipedia
+BeautifulSoup
+geopy
